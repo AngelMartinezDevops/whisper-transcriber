@@ -1,6 +1,6 @@
 # Whisper Transcriber
 
-Transcribe video and audio files using [OpenAI Whisper](https://github.com/openai/whisper).
+Transcribe video and audio files to text using [OpenAI Whisper](https://github.com/openai/whisper). One command, any format. Includes Windows 11 installation guide.
 
 ## Requirements
 
