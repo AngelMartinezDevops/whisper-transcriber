@@ -1,0 +1,19 @@
+# Transcripts (usually large, user-specific)
+*_transcript.txt
+*.mp4
+*.mp3
+*.wav
+*.webm
+*.mkv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
